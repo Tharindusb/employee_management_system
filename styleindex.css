@@ -3,6 +3,7 @@
 
 body{
 	margin: 0px;
+	background: #DAF7A6;
 }
 
 header{
@@ -12,14 +13,15 @@ header{
 	height: 50px;
 }
 
-header h1{
+nav h1{
 	display: inline;
-	font-family: 'Lobster', cursive;
+	/*font-family: 'Lobster', cursive;*/
 	font-weight: 400;
 	font-size: 32px;
 	float: left;
 	margin-top: 0px;
 	margin-right: 10px;
+	color: white;
 }
 
 nav ul {
@@ -59,7 +61,7 @@ nav ul ul{
 
 
 #navli{
-	font-family: 'Montserrat', sans-serif;
+	/*font-family: 'Montserrat', sans-serif;*/
 }
 
 .homered{
@@ -68,7 +70,7 @@ nav ul ul{
 }
 
 .divider{
-	background-color: red;
+	background-color: #197758;
 	height: 5px;
 }
 

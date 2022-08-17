@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #DAF7A6 ;
+
+}
+
+.loginbox{
+	width: 360px;
+	height: min-content;
+	padding: 20px;
+	border-radius: 12px;
+	background: #ffffff;
+}
+
+.loginbox h1 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.loginbox form {
+    font-size: 20px;
+}
+
+.loginbox form .form-group {
+    margin-bottom: 15px;
+   
+}
+
+.loginbox form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
